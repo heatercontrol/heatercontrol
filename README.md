@@ -1,7 +1,7 @@
 # Heater control
 
 This project could be interesting for everyone, who is looking for an alternative/replacement heater control unit for any oil or gas burner.
-The system controls the general heating time per day, e.g. Monday from 06:00 to 20:00. Hysteresis via start and the stop temp, e.g. 35 degrees burner start and 60 degrees burner stop temp, when them is back to 35 degrees the burner switches on again...
+The system controls the general heating time per day, e.g. Monday from 06:00 to 20:00. Hysteresis via start and the stop temp, e.g. 45 degrees burner start and 60 degrees burner stop temp, when them is back to 45 degrees the burner switches on again...
 The circulation pump is controlled as well, it starts with the daily start time and ends with the daily stop time + 15 min, in order to give the oven a bit time to cool down.
 
 
