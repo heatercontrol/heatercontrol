@@ -38,24 +38,14 @@ The circulation pump is controlled as well, it starts with the daily start time 
 
 - For each blind a ESP-32 micro controler board, a 28BYJ-48 5vdc stepper motor with controller, some dupond cables and a 5v power supply with micro usb connector are needed
 
-- ESP-32: https://amzn.to/3uuozcW
-- Stepper motor with controller: https://amzn.to/3FgGmcW
-- OPTIONAL - Mini stepper motor controller: https://amzn.to/3Bu9mfZ
-- Any 5v power supply with micro usb connector
-
-**You can also buy plug&play solution which includes a 3d printed drive enclosure, mini stepper driver inclusive ESP-32 adapter.**
-[Drive enclosure with stepper driver and ESP-32 adapter](https://www.etsy.com/de/listing/1120088196/wifi-wlan-rollo-innenrollo-doppelrollo?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=rollo+antrieb&ref=sr_gallery-1-1&edd=1&organic_search_click=1)
+- ESP-32
+- Relays
+- DS18B20 temp sensor
+- Any 5v power supply for your ESP
 
 ## Connection schematic
 
-The following pictures shows the wireing diagram for the basic controller, which mostly comes with the stepper motor.
-
-<pre><img src="schematics/schematic.png" width="400px"></pre>
-
-## Installation and setup
-
-[Installation guide](https://github.com/danieldownload/mysmartrollo/wiki/Installation-guide)
-
+...
 
 
 
