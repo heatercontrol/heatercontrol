@@ -7,7 +7,7 @@ The circulation pump is controlled as well, it starts with the daily start time 
 
 ## Software images
 
-<pre><img src="images/controlcenter.png" width="190px">&#9;<img src="images/timer.png" width="190x">&#9;<img src="images/setup.png" width="190px">&#9;<img src="images/network.png" width="190px"></pre>
+<pre><img src="images/IMG_8158.png" width="190px">&#9;<img src="images/IMG_8160.png" width="190x">&#9;<img src="images/IMG_8161.png" width="190px">&#9</pre>
 
 ## Device images
 
