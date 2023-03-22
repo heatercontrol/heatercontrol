@@ -51,4 +51,4 @@ The circulation pump is controlled as well, it starts with the daily start time 
 
 
 ## Donate
-If you would like to support the developer with a cup of coffee you can do that via [Paypal](https://www.paypal.com/donate/?hosted_button_id=XN85B8YSH7KBL)
+If you would like to support the developer with a cup of coffee you can do that via [Paypal](https://www.paypal.com/donate/?hosted_button_id=SZ7XHCJKESK3E)
