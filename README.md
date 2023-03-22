@@ -11,8 +11,7 @@ The circulation pump is controlled as well, it starts with the daily start time 
 
 ## Device images
 
-<pre><img src="images/device_mounted.png" width="800px"></pre>
-<pre><img src="images/dev1.jpeg" width="300px">&#9;&#9;<img src="images/dev2.jpeg" width="300px"></pre>
+<pre><img src="images/IMG_8157.jpeg" width="800px"></pre>
 
 ## Features
 
