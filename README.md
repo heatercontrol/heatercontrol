@@ -32,8 +32,12 @@ The system is written in Micropython.
 - Start / Stop timer for every weekday
 - Start / Stop temp control
 
-## Control
+## Getting started
 
+- Install the latest Micropython release on your ESP-32
+- Copy the content of the zip release file to ESP's root directory
+- Reboot the ESP and search for Wifi SSID "HeaterControl" and connect, Wifi password is 123456789
+- Open a web browser, enter the configuration site http://192.168.4.1 and configure the device as needed
 
 ## Whats needed?
 
