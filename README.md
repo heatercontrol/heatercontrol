@@ -41,8 +41,6 @@ The system is written in Micropython.
 
 ## Whats needed?
 
-- For each blind a ESP-32 micro controler board, a 28BYJ-48 5vdc stepper motor with controller, some dupond cables and a 5v power supply with micro usb connector are needed
-
 - ESP-32 with Micropython
 - Relays
 - DS18B20 temp sensor
