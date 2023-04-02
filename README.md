@@ -54,4 +54,4 @@ The system is written in Micropython.
 
 
 ## Donate
-If you would like to support me with a cup of coffee you can do that via [Paypal](https://www.paypal.com/donate/?hosted_button_id=SZ7XHCJKESK3E)
+If you would like to support me with a cup of coffee, then you can do that via [Paypal](https://www.paypal.com/donate/?hosted_button_id=SZ7XHCJKESK3E)
