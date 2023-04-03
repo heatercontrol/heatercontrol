@@ -8,7 +8,7 @@ The system is written in Micropython.
 
 ## Software images
 
-<pre><img src="images/IMG_8224.jpeg" width="190px">&#9;<img src="images/IMG_8219.jpeg" width="190x">&#9;<img src="images/IMG_8220.jpeg" width="190px">&#9</pre>
+<pre><img src="images/IMG_8224.PNG" width="190px">&#9;<img src="images/IMG_8219.jpeg" width="190x">&#9;<img src="images/IMG_8220.jpeg" width="190px">&#9</pre>
 
 ## Device images
 
